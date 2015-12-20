@@ -16,6 +16,5 @@ ipch/
 *.sdf
 *.suo
 
-
-sound/bgm*
-sound/*.jpg
+*/sound/bgm*
+*/sound/*.jpg
